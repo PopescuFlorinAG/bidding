@@ -1,0 +1,5 @@
+# Claude Code agent configuration
+.claude/*
+!.claude/skills/
+!.claude/agents/
+.claude/worktrees/
